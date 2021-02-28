@@ -3,8 +3,12 @@
     "name": "KKTV Hide Watermark",
     "description": "Hide KKTV watermark",
     "version": "1.0",
+    "icons":{
+      "16": "img/icon16.png",
+      "128": "img/icon128.png"
+    },
     "browser_action": {
-      "default_icon": "icon.png",
+      "default_icon": "img/icon128.png",
       "default_title": "KKTV Hide Watermark"
     },
     "content_scripts": [
