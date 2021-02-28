@@ -2,6 +2,9 @@
 ## Introduction  
 都花錢看片了還要被浮水印(LOGO)擋畫面，難以接受==  
 如果你也覺得LOGO礙眼，就用這個擴充套件把它弄掉吧  
+效果如下圖所示  
+<img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/before.png" width="40%" style="display:inline-block">
+<img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/after.png" width="40%" style="display:inline-block">
 ## Usage 
 ### 1. 下載最新釋出的版本  
 <a href="https://github.com/omega87910/KKTV-Hide-Watermark/releases">點此前往下載區</a>  
@@ -12,5 +15,5 @@
 請先於網址列輸入``chrome://extensions/``前往Chrome的套件管理中心  
 接著點擊左上角``載入未封裝項目``，並選取剛剛的資料夾  
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/import.PNG" width="70%">  
-### 4. 開始你的追劇 A_<
+### 4. 開始追劇 A_<
 
