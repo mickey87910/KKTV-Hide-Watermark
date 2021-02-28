@@ -1,7 +1,7 @@
 # KKTV-Hide-Watermark 
 ## Introduction  
-都花錢看片了還要被浮水印搞==  
-如果你也覺得浮水印礙眼，就用這個擴充套件把它弄掉吧  
+都花錢看片了還要被浮水印(LOGO)擋畫面，難以接受==  
+如果你也覺得LOGO礙眼，就用這個擴充套件把它弄掉吧  
 ## Usage 
 ### 1. 下載最新釋出的版本  
 <a href="https://github.com/omega87910/KKTV-Hide-Watermark/releases">點此前往下載區</a>  
