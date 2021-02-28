@@ -9,7 +9,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://www.kktv.me/play/*"],
+            "matches": ["https://www.kktv.me/*"],
             "run_at": "document_end",
             "css": ["content.css"]
         }
