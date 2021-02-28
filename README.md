@@ -1,2 +1,2 @@
 # KKTV-WaterMark
-移除KKTV浮水印
+隱藏KKTV浮水印

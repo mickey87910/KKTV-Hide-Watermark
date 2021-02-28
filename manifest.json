@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Hide KKTV Watermark",
+    "description": "Hide KKTV watermark",
+    "version": "1.0",
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "Hide KKTV Watermark"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.kktv.me/play/*"],
+            "run_at": "document_end",
+            "css": ["content.css"]
+        }
+    ]
+  }
