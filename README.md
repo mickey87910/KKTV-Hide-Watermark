@@ -11,6 +11,6 @@
 ### 3. 新增解壓縮好的資料夾  
 請先於網址列輸入``chrome://extensions/``前往Chrome的套件管理中心  
 接著點擊左上角``載入未封裝項目``，並選取剛剛的資料夾  
-<img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/import.PNG" width="50%">  
+<img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/import.PNG" width="70%">  
 ### 4. 開始你的追劇 A_<
 
