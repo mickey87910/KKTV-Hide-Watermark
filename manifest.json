@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "KKTV Hide Watermark",
     "description": "Hide KKTV watermark",
-    "version": "1.0",
+    "version": "1.0.1",
     "icons":{
       "16": "img/icon16.png",
       "128": "img/icon128.png"
