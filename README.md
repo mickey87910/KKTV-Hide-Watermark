@@ -7,7 +7,8 @@
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/after.png" width="40%" style="display:inline-block">
 ## Usage 
 ### 1. 下載最新釋出的版本  
-<a href="https://github.com/omega87910/KKTV-Hide-Watermark/releases">點此前往下載區</a>  
+a. <a href="https://chrome.google.com/webstore/detail/kktv-hide-watermark/bhdmolgfhgembgjibflpfmgpbgmbmpgo">Chrome應用商店(推薦)</a>  
+b. <a href="https://github.com/omega87910/KKTV-Hide-Watermark/releases">GitHub下載區</a>  
 ### 2. 解壓縮下載好的zip檔案  
 解壓縮完畢的資料夾長這樣  
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/list.PNG" width="40%">  
