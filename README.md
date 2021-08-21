@@ -1,7 +1,6 @@
 # KKTV-Hide-Watermark 
 ## Introduction  
-都花錢看片了還要被浮水印(LOGO)擋畫面，難以接受==  
-如果你也覺得LOGO礙眼，就用這個擴充套件把它弄掉吧  
+主要是覆蓋了CSS的Class資料，達成去除浮水印(LOGO)的效果
 效果如下圖所示  
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/before.png" width="40%" style="display:inline-block">
 <img src="https://github.com/omega87910/MY_GITHUB_IMAGES/blob/master/KKTV-Hide-Watermark/after.png" width="40%" style="display:inline-block">
