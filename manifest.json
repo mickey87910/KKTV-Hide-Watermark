@@ -1,13 +1,13 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "KKTV Hide Watermark",
     "description": "Hide KKTV watermark",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icons":{
       "16": "img/icon16.png",
       "128": "img/icon128.png"
     },
-    "browser_action": {
+    "action": {
       "default_icon": "img/icon128.png",
       "default_title": "KKTV Hide Watermark"
     },
