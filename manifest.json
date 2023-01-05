@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "KKTV Hide Watermark",
     "description": "Hide KKTV watermark",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "icons":{
       "16": "img/icon16.png",
       "128": "img/icon128.png"
@@ -13,7 +13,7 @@
     },
     "content_scripts": [
         {
-            "matches": ["https://www.kktv.me/*"],
+            "matches": ["https://www.kktv.me/*","https://kktv.me/*"],
             "run_at": "document_end",
             "css": ["content.css"]
         }
